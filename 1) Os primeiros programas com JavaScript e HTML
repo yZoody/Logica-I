@@ -10,4 +10,19 @@ Além do browser, será necessário utilizarmos algum editor de texto.
 quando necessário, e F12 para abrir a janela das ferramentas de desenvolvedor (DevTools). Este recurso irá
 abrir em uma nova janela para utilização de depurador e demais utilidades.
 
-<h1>Criando seu próprio arquivo HTML: </h1>;
+Criando seu próprio arquivo HTML:
+   Abriremos o editor de texto, que é o Sublime, e tem um arquivo em branco. Como padrão, temos o atalho "Ctrl + S"
+que serve para salvarmos o arquivo que será o programa. salvaremos o novo arquivo com algum nome e no final (.html).
+   "CTRL + O" e no diretório selecionaremos o arquivo que acabamos de criar. para que possa ser aberto no Browser.
+   
+   Pular Linhas:
+<br> : comando usado na programação para pular linhas.
+  Trata-se de uma tag HTML, e todas têm esta característica de começar com o símbolo de "menor" (<), o nome da tag
+- "br" é abreviação de break -, e fecha com o símbolo de "maior" (>). Isto indica ao navegador que ele deve pular uma linha.
+
+Destacar Linha para título:
+<h1>: Comando usado para destaque.
+  O HTML conta com a tag <h1>. O "h" se origina da palavra heading, ou seja, cabeçalho. Significa que este é o primeiro título,
+ou título principal é algo que precisa ser destacado em uma página.
+  Uma particularidade da tag <br> é que, no início, inserimos <> e pronto - já para a tag <h1> e a maioria das tags HTML,
+precisaremos da mesma tag com uma barra </h1> para fechá-la, conforme vemos abaixo:
